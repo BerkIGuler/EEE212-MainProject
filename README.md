@@ -1,5 +1,5 @@
-# EEE212-MainProject
-Another project for microprocessors course
+# EEE212-The DOTGAME
+An electronic game project implemented on a microcontroller.
   
 * Written on ARM mbed online compiler
 * Board: NXP KL25Z 
