@@ -1,4 +1,4 @@
-# EEE212-The DOTGAME
+# THE DOTGAME
 An electronic game project implemented on a microcontroller.
   
 * Written on ARM mbed online compiler
